@@ -132,7 +132,8 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine? :begging_face: 🥵
+              Bibuti, My love of 6 moons,<br />
+              Will you be my Valentine? 🥺🥵
             </h2>
             <Image
               src="/sad_hamster.png"
